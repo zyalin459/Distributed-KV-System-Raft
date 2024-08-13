@@ -1,0 +1,2 @@
+--current system is mingw--
+./bin/run_server.sh: line 54: C:\Program: No such file or directory
